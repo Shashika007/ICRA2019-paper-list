@@ -12,7 +12,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |0008|Self-Supervised Incremental Learning for Sound Source Localization in Complex Indoor Environment|
 |0016|Unsupervised Out-Of-Context Action Understanding|
 |0031|Aided Inertial Navigation - Unified Feature Representations and Observability Analysis|
-|0036|Learning Wheel Odometry and IMU Errors for Localization|
+|0036|[Learning Wheel Odometry and IMU Errors for Localization](https://hal.archives-ouvertes.fr/hal-01874593/document)|
 |0038|Balance Map Analysis As a Measure of Walking Balance Based on Pendulum-Like Leg Movements|
 |0039|A New Approach for an Adaptive Linear Quadratic Regulated Motion Cueing Algorithm for an 8 DoF Full Motion Driving Simulator|
 |0041|MH-iSAM2 - Multi-Hypothesis iSAM Using Bayes Tree and Hypo-Tree|
