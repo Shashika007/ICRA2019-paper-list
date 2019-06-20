@@ -32,7 +32,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |0111|Oriented Point Sampling for Plane Detection in Unorganized Point Clouds|
 |0114|1-Actuator 3-DoF Manipulation Using an Underactuated Mechanism with Multiple Nonparallel and Viscoelastic Passive Joints|
 |0116|Critically Fast Pick-And-Place with Suction Cups|
-|0118|Project AutoVision - Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System|
+|0118|[Project AutoVision - Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System](https://arxiv.org/pdf/1809.05477.pdf)|
 |0120|A Kalman Filter-Based Algorithm for Simultaneous Time Synchronization and Localization in UWB Networks|
 |0122|Pose Graph Optimization for Unsupervised Monocular Visual Odometry|
 |0123|3D Printed Soft Pneumatic Actuators with Intent Sensing for Hand Rehabilitative Exoskeletons|
